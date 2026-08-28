@@ -1,0 +1,7 @@
+ In our pdf the section 'Buillding clock' the text was AI generated trough Gemini and we assure that all the other info is typed.
+
+ The code is taken from GVV sir's given reference code in the Digital clock GitHub link.
+
+ All the K-Maps references are taken from GitHub link of a Third Year EE student named Dhawal.
+
+ All the images in the pdf are taken from google.
