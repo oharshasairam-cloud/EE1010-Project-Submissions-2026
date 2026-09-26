@@ -1,0 +1,12 @@
+REFERENCES
+
+[1]  Anthropic, Claude (Sonnet), Large language model, 2026. [Online]. Available: https://claude.ai
+[2]  Google, Gemini, Large language model, 2026. [Online]. Available: https://gemini.google.com
+[3] ALL ABOUT ELECTRONICS. “What is Heat Sink? Why Heat Sinks are used in Electronics? How Heat Sink Works? Heat Sink Explained”, Youtube, March 2019, [Online]. Available: https://www.youtube.com/watch?v=LA6H_rGoJsI
+[4] Deltahedra. “FreeCAD - Ultimate Complete Beginner Tutorial”, Youtube,  Nov 2025, [Online]. Available: https://www.youtube.com/watch?v=E14m5hf6Pvo
+[5] Polonium Technologies. “LM7805 Voltage Regulator Explained | Pinout, Features, Applications & Limitations”, Youtube, Oct 2025. [Online]. Available: https://www.youtube.com/watch?v=cIP_QH5TTHk\
+[6] M Electro Expert. “How to make DC Power Supply Project || DIY DC 5v Mobile Charger”, Youtube, Feb 2023. [Online]. Available: https://www.youtube.com/watch?v=gtMcQeLSiSM&t=403s
+[7] How Do You? DIY. “Using Perfboard | Soldering Basics | Soldering for Beginners”, Youtube, Nov 2010. [Online]. Available: https://www.youtube.com/watch?v=l9Kbr8cPqOE&t=10s
+[8] Marc de Vinck. “Perfboard Soldering Tutorial | Make Your Arduino Circuit Permanent”, Youtube, Oct 2019. [Online]. Available: https://www.youtube.com/watch?v=a3wDEcORRR4
+[9] Studying L Plus. “52- Smoothing capacitors”, Youtube, May 2020. [Online]. Available: https://www.youtube.com/watch?v=UkSO70SMuqI
+[10] The Engineering Mindset. “Full Wave Bridge Rectifier + Capacitor filters + half wave rectifier”, Youtube, March 2021. [Online]. Available: https://www.youtube.com/watch?v=RiRyzLl4Y8U
