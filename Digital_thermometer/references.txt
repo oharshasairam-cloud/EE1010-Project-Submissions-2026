@@ -1,0 +1,5 @@
+[1] Anthropic, Claude (Sonnet), Large language model, 2026. [Online]. Available: https://claude.ai
+
+
+
+[2] Google, Gemini, Large language model, 2026. [Online]. Available: https://gemini.google.com
